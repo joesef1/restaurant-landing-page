@@ -37,7 +37,7 @@ const cocktails = [
   {
     title: "Dark 'N' Stormy",
     price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    tags: 'Dark rum | Ginger | Slice of lime',
   },
   {
     title: 'Daiquiri',
